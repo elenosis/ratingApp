@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ratingApp/static/css/main.fa72ae7b.css",
+    "main.js": "/ratingApp/static/js/main.56b3848b.js",
+    "index.html": "/ratingApp/index.html",
+    "main.fa72ae7b.css.map": "/ratingApp/static/css/main.fa72ae7b.css.map",
+    "main.56b3848b.js.map": "/ratingApp/static/js/main.56b3848b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa72ae7b.css",
+    "static/js/main.56b3848b.js"
+  ]
+}
